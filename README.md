@@ -1,8 +1,8 @@
-# Overlord-bot
+# Morbo-bot
  
 ## The bot that sees all.
 
-HephaestusBot is a Discord.py bot developed by the members of Practical Python. 
+Morbo is a Discord bot developed by the members of Practical Python. 
 
 The bot is free, and open source. Anyone is welcome to contribute.
 
