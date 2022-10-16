@@ -12,7 +12,7 @@ class welcome(commands.Cog):
             # await channel.send(f'Welcome {member.mention}.')
 
     @commands.command()
-    async def hello(self, ctx, *, member: discord.Member = None):
+    async def hello(self, ctx, *, member):
         member = member or ctx.author
         if self._last_member is None or self._last_member.id != member.id:
             print(f'Hello {member.name}~')
