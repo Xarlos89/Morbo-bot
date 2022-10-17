@@ -11,8 +11,8 @@ Feel free to check out our other projects at https://xarlos89.github.io/Practica
 ### Future plans
 - [ ] Structure
 	- [X] |- Set up project in Practical Python, initiate webhook. 
-	- [ ] |- Running on Pycord
-    - [ ] |- Cogs
+	- [X] |- Running on Pycord
+    - [X] |- Cogs
     - [ ] |- logfile with all actions
     - [ ] |- CI/CD
 
